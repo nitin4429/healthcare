@@ -8,7 +8,7 @@ import FeaturedServices from "./FeaturedService";
 function Home() {
   return (
     <HomeLayout>
-      <div className="relative w-full h-[600px] bg-cover bg-center border bg-[url('healthcarehome.webp')]">
+      <div className="relative w-full h-[600px] bg-cover bg-center border bg-[url('/healthcarehome.webp')]">
         {/* Overlay */}
         <div className="absolute inset-0 bg-black opacity-20"></div>
 
