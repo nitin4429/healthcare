@@ -87,7 +87,7 @@ function HomeLayout({ children }) {
         <div className="md:w-[20%] h-[40px] w-[50%] flex justify-start items-center">
           <Link to="/">
             <img
-              className="w-[35%] md:w-[80%] lg:w-[46%] md:pl-[10%] lg:pl-[17%]"
+              className="w-[30%] md:w-[80%] lg:w-[46%] md:pl-[10%] lg:pl-[17%]"
               src="/healthcarelogo1.png"
               alt="Logo"
             />
